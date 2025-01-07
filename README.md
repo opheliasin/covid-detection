@@ -5,9 +5,9 @@ The COVID-19 Detection System employs a multi-branch convolutional neural networ
 
 ## Dataset
 The dataset consists of audio recordings categorized by COVID-19 status. Each audio type (breathing, cough, speech) is organized into distinct directories. The recordings are standardized to ensure uniform duration, with specific sampling rates applied for each type:
-Breathing samples: 80,000 Hz
-Cough recordings: 96,000 Hz
-Speech recordings: 160,000 Hz
+- Breathing samples: 80,000 Hz
+- Cough recordings: 96,000 Hz
+- Speech recordings: 160,000 Hz
 
 ## Methodology
 ###  Data Preprocessing
